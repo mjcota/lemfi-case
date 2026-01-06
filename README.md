@@ -1,10 +1,6 @@
 # 📊 LemFi — Product Analytics Case Study
 
 
-## 🔗 Dashboard
-👉 **Interactive dashboard:**  
-https://lookerstudio.google.com/reporting/ee3aadaa-c059-4481-b54b-d36427ce4304
-
 ## Objective
 
 - Evaluate LemFi’s customer lifecycle performance across acquisition, activation, retention, monetization, and unit economics.
@@ -20,6 +16,10 @@ Given time constraints, the focus is on:
 
 This analysis is intended as an **exploratory, decision-oriented exercise**, not as a final production-grade financial model.
 
+
+👉 **Interactive dashboard:**  
+https://lookerstudio.google.com/reporting/ee3aadaa-c059-4481-b54b-d36427ce4304
+
 ---
 
 ## Data Coverage & Scope
@@ -31,14 +31,6 @@ This analysis is intended as an **exploratory, decision-oriented exercise**, not
 ---
 
 ## Data Cleaning & Assumptions
-
-### Key Definitions
-
-- **Active user**: A user with at least one successful transaction.
-- **Activation rate**: Share of registered users who completed at least one successful transaction.
-- **Retention**:
-  - *Bounded retention*: Activity within defined time brackets since registration.
-  - *Unbounded retention*: Share of users remaining active at least once up to a given day since registration.
 
 ### Data Treatment & Limitations
 
